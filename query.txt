@@ -1,0 +1,1 @@
+query_id=AAEQe99NAAAAABB730260Xln&user=%7B%22id%22%3A1306491664%2C%22first_name%22%3A%22%F0%9F%90%BC%20Rony%20Handry%20Mustofa%22%2C%22last_name%22%3A%22%F0%9F%8D%85%22%2C%22username%22%3A%22The_Rhoniey%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726262433&hash=f28bd3f3720c68c20bc103169f517a655a87325569cbb9305d9c846644128877
